@@ -109,8 +109,12 @@ Database
 # GitHub Repository Structure
 
 | S.No. | Branch Name | Purpose |
+|-------|-------------|---------|
 | 1. | name  | name |
 | 2. | name  | name |
+
+---
+
 
 ## 🎯 Future Scope
 
