@@ -1,4 +1,6 @@
 # IT-SIH-2026
+# Team- 
+# Smart India Hackathon 2026
 # Project Name
 
 > One-line description of your project.
@@ -23,12 +25,6 @@
 ## 📖 About
 
 Write a brief introduction about your project.
-
-Example:
-
-This project aims to solve __________ using modern technologies. It was developed as part of __________.
-
----
 
 ## ✨ Features
 
@@ -87,48 +83,6 @@ Project/
 └── LICENSE
 ```
 
----
-
-## 🚀 Installation
-
-Clone the repository
-
-```bash
-git clone https://github.com/yourusername/project-name.git
-```
-
-Go into the directory
-
-```bash
-cd project-name
-```
-
-Install dependencies
-
-```bash
-npm install
-```
-
-Run the project
-
-```bash
-npm start
-```
-
----
-
-## 📸 Screenshots
-
-### Home Page
-
-![Home](images/home.png)
-
-### Dashboard
-
-![Dashboard](images/dashboard.png)
-
----
-
 ## 🔄 Workflow
 
 ```
@@ -152,6 +106,11 @@ Database
 ```
 
 ---
+# GitHub Repository Structure
+
+| S.No. | Branch Name | Purpose |
+| 1. |             |          |   
+| 2. |             |          | 
 
 ## 🎯 Future Scope
 
@@ -164,36 +123,11 @@ Database
 
 ## 👥 Team Members
 
-| Name | Role |
+| Name | Role | GitHub Username |
 |------|------|
 | Your Name | Team Lead |
 | Member 2 | Developer |
 | Member 3 | UI/UX |
-
----
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a new branch
-
-```bash
-git checkout -b feature-name
-```
-
-3. Commit your changes
-
-```bash
-git commit -m "Added new feature"
-```
-
-4. Push your branch
-
-```bash
-git push origin feature-name
-```
-
-5. Create a Pull Request
 
 ---
 
@@ -202,7 +136,3 @@ git push origin feature-name
 This project is licensed under the MIT License.
 
 ---
-
-## ⭐ Support
-
-If you like this project, don't forget to give it a ⭐ on GitHub.
