@@ -124,10 +124,10 @@ Database
 ## 👥 Team Members
 
 | Name | Role | GitHub Username |
-|------|------|
-| Your Name | Team Lead |
-| Member 2 | Developer |
-| Member 3 | UI/UX |
+|------|------|-----------------|
+| Your Name | Team Lead | name |
+| Member 2 | Developer | name |
+| Member 3 | UI/UX | name |
 
 ---
 
