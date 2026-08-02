@@ -136,3 +136,11 @@ Database
 This project is licensed under the MIT License.
 
 ---
+
+| Category | Technologies |
+|----------|--------------|
+| Frontend | HTML, CSS, React |
+| Backend | Node.js, Express |
+| Database | MongoDB |
+| Cloud | Firebase |
+| Version Control | Git, GitHub |
